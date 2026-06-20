@@ -41,7 +41,7 @@ WhatsApp-native distribution. Privacy-first: no school-identifiable data stored.
 - [ ] Expand to second school
 
 ## Decisions log
-Key product decisions documented in [CHANGELOG.md](CHANGELOG.md).
+Key product decisions documented in https://github.com/DKTyannickfabre/secondplay/blob/main/CHANGELOG.md
 
 ## Contact
 Open to product, engineering, and founding-team conversations.
