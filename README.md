@@ -45,8 +45,7 @@ Key product decisions documented in [CHANGELOG.md](CHANGELOG.md).
 
 ## Contact
 Open to product, engineering, and founding-team conversations.
-- LinkedIn: [your-link]
-- Email: [your-email]
+- LinkedIn: https://www.linkedin.com/in/yannickfabre/
 
 > Source code is private while the product is in active development.
 ```
